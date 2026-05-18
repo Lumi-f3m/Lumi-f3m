@@ -1,4 +1,4 @@
-##                     Hi there 👋, I'm Lumi!
+<h1 align="center">Hi 👋, I'm Lumi!</h1>
 
 <!--
 **Lumi-f3m/Lumi-f3m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
