@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lumi</h1>
-<h3 align="center">A passionate developer working on s0lac3</h3>
+<h3 align="center">Small Developer working on s0lac3</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Lumi-f3m&label=Profile%20views&color=0e75b6&style=flat" alt="Lumi" /> 
