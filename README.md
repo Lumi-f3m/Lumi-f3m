@@ -6,8 +6,8 @@
 </p>
 
 - 🔭 I’m currently working on **s0lac3**
-- 💬 Ask me about coding, my projects, or anything tech!
-- 📫 How to reach me: **lumi.f3m@gmail.com**
+- 💬 I am not doing requests right now as I'm Busy
+- 🥲 I'm just a small programmer, so don't mind me 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
